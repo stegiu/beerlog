@@ -1,1 +1,4 @@
 name = "beerlog"
+
+[datanase]
+url = "sqlite:///beerlog.db"
